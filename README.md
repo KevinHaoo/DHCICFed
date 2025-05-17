@@ -9,3 +9,13 @@
 
 
 **关键词**：联邦学习; 数据异质性; 类不平衡; 医疗图像分类
+
+_(本项目基于 FedIIC 公开的代码框架，进行自定义改进和编辑，见下面引用)_
+
+### Ref: 
+@inproceedings{Wu2023FedIIC,
+  title={FedIIC: Towards Robust Federated Learning for Class-Imbalanced Medical Image Classification},
+  author={Wu, Nannan and Yu, Li and Yang, Xin and Cheng, Kwang-Ting and Yan, Zengqiang},
+  booktitle={MICCAI},
+  year={2023}
+}
